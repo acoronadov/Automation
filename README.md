@@ -1,2 +1,2 @@
-# Automatizaci-n
+# Automation
 Proyecto de automatización
